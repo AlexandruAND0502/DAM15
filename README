@@ -1,7 +1,2 @@
-echo "# DAM15" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/AlexandruAND0502/DAM15.git
-git push -u origin main
+DAM15
+Team: RUSU V ANCA, BÎRSAN I. CONSTANTIN, ANDRIEŞ T IOAN ALEXANDRU
