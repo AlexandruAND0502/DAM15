@@ -1,4 +1,4 @@
-_**Cazuri de Utilizare**_ /br
+_**Cazuri de Utilizare**_
 
 **Extinderea perioadei de returnare**
 
