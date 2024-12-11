@@ -13,3 +13,4 @@ public class DemoController {
 }
 
 //comanda pentru a rula aplicatia (se pune in terminal): mvn spring-boot:run
+//aplicatia POSTMAN pentru testarea serviciilor CRUD
